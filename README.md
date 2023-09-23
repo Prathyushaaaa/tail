@@ -1,7 +1,7 @@
 # tail
 The 'Tail' command is a utility that retrieves and prints the last N lines of a given input. By default, it displays the last 10 lines of specified files. If multiple file names are provided, the data from each file is shown alongside its respective filename. When no filename is specified, 'tail' reads from the standard input.
 
-Usage: 
+Usage in XV6: 
 
 -n: Prints the last n lines of each file.
 
